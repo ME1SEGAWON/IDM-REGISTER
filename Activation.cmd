@@ -180,21 +180,11 @@ if not %_ena%==3 if not %_dis%==3 (
 set _status=Status_Unclear
 set _col=%_Yellow%
 )
-
+                                                                                                         
+echo:   BAD APPLE CRACK X MINIWON : thanks yasir252
 echo:
 echo:
-echo:          лллллл   ллллллл  лллллллл лллллллл  ллллллл   ллллллл      лллл лллллллл  
-echo:         лл    лл лл     лл лл          лл    лл     лл лл     лл      лл  лл     лл 
-echo:         лл       лл     лл лл          лл    лл     лл лл     лл      лл  лл     лл 
-echo:          лллллл  лл     лл лллллл      лл     лллллллл  ллллллл       лл  лллллллл  
-echo:               лл лл     лл лл          лл           лл лл     лл      лл  лл   лл   
-echo:         лл    лл лл     лл лл          лл    лл     лл лл     лл ллл  лл  лл    лл  
-echo:          лллллл   ллллллл  лл          лл     ллллллл   ллллллл  ллл лллл лл     лл
-echo: 
-echo:  
-echo:         лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл
 echo:
-echo:                                                          
 echo:          [1] Activate IDM                               
 echo:          [2] Reset IDM Activation / Trial in Registry
 echo:          _____________________________________________   
